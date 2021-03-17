@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Setareh Taki"
+excerpt: "Setareh Taki"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /setareh/
+  - /setareh.html
 ---
 My name is setareh
 
