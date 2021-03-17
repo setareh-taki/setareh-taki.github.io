@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Setareh Taki"
   avatar           : "mesq.jpg"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
+  bio              : "PhD student at The Uninversity of Illinois at Urbana-Champaign"
   location         : "Urbana, Illinois"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=3kRnOZMAAAAJ&hl=en"
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "getorg-testacct"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  linkedin         : "https://www.linkedin.com/in/setareh-taki/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
