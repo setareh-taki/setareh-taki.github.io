@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Setareh Taki"
-excerpt: "Setareh Taki"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /setareh/
