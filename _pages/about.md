@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is Dr. Test Account's home on the web!
+My name is setareh
 
 Lorem ipsum.
