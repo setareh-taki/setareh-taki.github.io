@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "Setareh Taki"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
-description              : &description "Research scientist at Test University"
-url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Setareh Taki"
+description              : &description "PhD Student @ University of Illinois at Urbana-Champaign"
+url                      : https://setareh-taki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "getorg-testacct.github.io"
+repository               : "setareh-taki.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
