@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
-  avatar           : "profile.png"
+  name             : "Setareh Taki"
+  avatar           : "me.jpg"
   bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  location         : "Urbana, Illinois"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : "https://scholar.google.com/citations?user=3kRnOZMAAAAJ&hl=en"
   email            : 
   uri              : 
   bitbucket        :
