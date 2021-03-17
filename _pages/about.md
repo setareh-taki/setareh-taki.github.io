@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Setareh Taki"
-excerpt: "hello"
+title: "Hello"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /setareh/
