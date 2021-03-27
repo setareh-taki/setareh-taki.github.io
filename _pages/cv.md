@@ -7,53 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
-
-* Fall 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 49 different slack teams
+<object data="https://github.com/setareh-taki/setareh-taki.github.io/blob/a437616128b5ca165a03a0d045a387fdfcb48034/files/Resume_Setareh_Taki%20feb6.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/setareh-taki/setareh-taki.github.io/blob/a437616128b5ca165a03a0d045a387fdfcb48034/files/Resume_Setareh_Taki%20feb6.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
