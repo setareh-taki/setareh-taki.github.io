@@ -14,7 +14,7 @@ I am a PhD student at the University of Illinois at Urbana-Champaign. Under the 
 
 I currently am an Operations Research intern at [Norfolk Southern Corp](http://www.nscorp.com/).
 
-Please see my [CV]("https:setareh-taki.github.io/files/Resume_Setareh_Taki%20feb6.pdf").
+Please see my [CV]("https://github.com/setareh-taki/setareh-taki.github.io/raw/master/files/Resume_Setareh_Taki%20feb6.pdf").
 
 
 
