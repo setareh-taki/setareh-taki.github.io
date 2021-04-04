@@ -17,7 +17,7 @@ I currently am an Operations Research intern at [Norfolk Southern Corp](http://w
 Here is my most current [CV].
 
 
-[CV]: /files/Resume_Setareh_Taki%20feb6.pdf
+[CV]: /files/Resume_Setareh_Taki.pdf
 
 
 
