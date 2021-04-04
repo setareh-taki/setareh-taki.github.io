@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<center><img src="https:setareh-taki.github.io/images/me.jpg" width="400"></center>
+<center><img src="http://setareh-taki.github.io/images/me.JPG" width="400"></center>
 
 I am a PhD student at the University of Illinois at Urbana-Champaign. Under the supervision of [Jugal Garg](http://jugal.ise.illinois.edu/), I work on Fair Division problems in Algorithmic Game Theory and Approximation Algortihms.
 
